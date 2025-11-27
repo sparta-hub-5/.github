@@ -70,6 +70,3 @@
 
 ### 9. Docker
 - 환경 표준화 및 빠른 배포 구성
-
-  ## 프로젝트 아키텍처
-  <img width="1036" height="735" alt="image" src="" />
